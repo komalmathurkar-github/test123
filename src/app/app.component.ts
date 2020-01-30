@@ -9,4 +9,3 @@ export class AppComponent {
   title = 'myapp';
   
 }
-console.log("myapp");
